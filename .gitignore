@@ -1,0 +1,16 @@
+# Virtual environment
+venv/
+
+# Byte-compiled / intermediate files
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Poetry files
+poetry.lock
+
+# Logs and temp files
+*.log
+.DS_Store
+*.swp
