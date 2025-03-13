@@ -33,7 +33,7 @@ pubmed_fetcher/
 
 ### **1️⃣ Clone the Repository**
 ```bash
-git clone https://github.com/yourusername/pubmed-fetcher.git
+git clone https://github.com/Akash-Kumar-2/Full-Stack-Developer-Aganitha-Cognitive-Solutions.git
 cd pubmed
 ```
 
